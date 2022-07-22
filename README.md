@@ -18,7 +18,7 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 .\Export-AzureAD-Users-and-Licenses.ps1
 ```
 OR
-#	Running from a Run or cmd.exe prompt: 
+Running from a Run or cmd.exe prompt: 
 ```powershell
 powershell -ExecutionPolicy Bypass -File ".\Export-AzureAD-Users-and-Licenses.ps1"
 ```
